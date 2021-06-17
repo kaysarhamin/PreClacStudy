@@ -161,7 +161,7 @@ while (question1.getAns()<=0)
                             }
                                 if (question4.getAns() > 0) {
 
-                            System.out.println(" great job lets see how you did. To go to the other section, restart the game.");
+                            System.out.println(" great job lets see how you did. True means correct and false means incorrect. To go to the other section, restart the game.");
                                     System.out.println(" question 1"+ sans1 + "\n question 2" + sans2 + "\n question 3"+ sans3 + "\n question 4"+ sans4);
 
 
@@ -295,7 +295,7 @@ while (question1.getAns()<=0)
                             ans4 = true;
                         }
                         if (squestion4.getAns() > 0) {
-                            System.out.println(" great, lets see how you did. To go to the other section, restart the game.");
+                            System.out.println(" great, lets see how you did. True means correct and false means incorrect. To go to the other section, restart the game.");
                             System.out.println( " question 1"+ ans1 + "\n question 2 " + ans2 + "\n question 3" + ans3 + "\nquestion 4" + ans4);
                         }
                     }
